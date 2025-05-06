@@ -8,7 +8,7 @@ If the GUI is designed in Squareline Studio, the interesting files are
 - ui_events.cpp - contains the function definitions, for example what shall happen if you press a button in the GUI.
 
 How to get the the display up n running:
-- This folder of the original ESP32 DISPLAY PANEL library is a good start:
+- This folder of the original ESP32 DISPLAY PANEL library is a good start, so download and open it in Platformio:
 
 https://github.com/esp-arduino-libs/ESP32_Display_Panel/tree/master/examples/platformio/lvgl_v8_port
 
